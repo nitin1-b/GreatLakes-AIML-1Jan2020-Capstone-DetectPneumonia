@@ -15,7 +15,7 @@ https://www.kaggle.com/c/rsna-pneumonia-detection-challenge/data
 The following are several Jupyter notebooks covering the basics of downloading and parsing annotation data, and training and evaluating different deep learning models for classification, semantic and instance segmentation and object detection problems in the medical imaging domain. 
 
 
-
+tbu
 TBU
   
   
